@@ -1,5 +1,5 @@
 # Parallel Programming
-## By Abdullah Amir and Musab Kasbati
+## By Abdullah Amir and Musab Kasbati[https://github.com/Musab1Blaser]
 
 ## Overview
 
